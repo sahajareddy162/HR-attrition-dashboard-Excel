@@ -54,7 +54,7 @@ Designed an interactive dashboard featuring:
 
 #### **Dashboard:**
 
-![HR Dashboard](hr_analytics_dashboard.png)
+![HR Dashboard](hr_dashboard.png)
 
 
 
