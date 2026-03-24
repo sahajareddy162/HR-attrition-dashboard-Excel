@@ -60,19 +60,19 @@ Designed an interactive dashboard featuring:
 
 #### **Data Preview:**
 
-!\[Data Preview](data\_preview.png)
+!\[Data](data\_preview.png)
 
 #### 
 
 #### **Key Insights:**
 
-**Total Employees:**1470
+**Total Employees**:1470
 
 **Total Attrition**:237 employees
 
 **Active Employees**:1233  
 
-**Average Age:**37 years  
+**Average Age**:37 years  
 
 **Job Satisfaction Score**:2.6 (indicates moderate to low satisfaction) 
 
@@ -126,7 +126,7 @@ Designed an interactive dashboard featuring:
 
 HR Analytics Dashboard (Excel File).
 
-Dashboard Screenshot
+Dashboard and Data Screenshots
 
 
 
