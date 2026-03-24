@@ -66,47 +66,47 @@ Designed an interactive dashboard featuring:
 
 #### **Key Insights:**
 
-**Total Employees**:1470
+***Total Employees**:1470
 
-**Total Attrition**:237 employees
+***Total Attrition**:237 employees
 
-**Active Employees**:1233  
+***Active Employees**:1233  
 
-**Average Age**:37 years  
+***Average Age**:37 years  
 
-**Job Satisfaction Score**:2.6 (indicates moderate to low satisfaction) 
+***Job Satisfaction Score**:2.6 (indicates moderate to low satisfaction) 
 
 
 
 #### **Detailed Insights:**
 
-**Department-wise Attrition:** R\&D has the largest share (\~56%), followed by Sales (\~38%), while HR contributes very little.
+***Department-wise Attrition:** R\&D has the largest share (\~56%), followed by Sales (\~38%), while HR contributes very little.
 
-**Age-wise Attrition:** Employees in the ***25-34 and 35-44 age groups*** show the highest attrition.
+***Age-wise Attrition:** Employees in the ***25-34 and 35-44 age groups*** show the highest attrition.
 
-**Education-wise Attrition:** Employees with ***Bachelor’s degree (99)*** and ***Master’s degree (58)*** experience the highest attrition.
+***Education-wise Attrition:** Employees with ***Bachelor’s degree (99)*** and ***Master’s degree (58)*** experience the highest attrition.
 
-**Marital Status:** ***Married employees (673)*** show higher attrition compared to Single and Divorced.
+***Marital Status:** ***Married employees (673)*** show higher attrition compared to Single and Divorced.
 
-**Job Role Analysis:** Roles like ***Laboratory Technician, Sales Executive, and Research Scientist*** have higher attrition rates.
+***Job Role Analysis:** Roles like ***Laboratory Technician, Sales Executive, and Research Scientist*** have higher attrition rates.
 
-**Gender Distribution**: Male employees (882) outnumber female employees (588), which may affect attrition distribution.
+***Gender Distribution**: Male employees (882) outnumber female employees (588), which may affect attrition distribution.
 
 
 
 #### **Recommendations:**
 
-**Improve Job Satisfaction:** Since the satisfaction score is low (2.6), focus on employee engagement, recognition, and improving the work environment.
+***Improve Job Satisfaction:** Since the satisfaction score is low (2.6), focus on employee engagement, recognition, and improving the work environment.
 
-**Target High-Risk Roles:** Develop strategies to retain employees in roles like Sales Executive and Laboratory Technician.
+***Target High-Risk Roles:** Develop strategies to retain employees in roles like Sales Executive and Laboratory Technician.
 
-**Focus on Mid-Career Employees:** Provide career growth opportunities and promotions for employees in the 25-44 age group.
+***Focus on Mid-Career Employees:** Provide career growth opportunities and promotions for employees in the 25-44 age group.
 
-**Department-Level Actions:** Examine R\&D and Sales departments for workload, management issues, or growth limitations.
+***Department-Level Actions:** Examine R\&D and Sales departments for workload, management issues, or growth limitations.
 
-**Education-Based Retention:** Employees with Bachelor’s and Master’s degrees may seek growth—introduce upskilling and career advancement plans.
+***Education-Based Retention:** Employees with Bachelor’s and Master’s degrees may seek growth—introduce upskilling and career advancement plans.
 
-**Work-Life Balance Policies:** Especially for married employees, flexible work options and benefits can help reduce attrition
+***Work-Life Balance Policies:** Especially for married employees, flexible work options and benefits can help reduce attrition
 
 
 
