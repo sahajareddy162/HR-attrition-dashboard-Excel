@@ -54,13 +54,13 @@ Designed an interactive dashboard featuring:
 
 #### **Dashboard Preview:**
 
-!\[HR Dashboard](hr\_analytics\_dashboard.png)
+![HR Dashboard](hr_analytics_dashboard.png)
 
 
 
 #### **Data Preview:**
 
-!\[Data](data\_preview.png)
+![Data](data_preview.png)
 
 #### 
 
